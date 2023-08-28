@@ -1,2 +1,2 @@
 # CMSC320
-For Class
+An NBA MVP Prediction project in python. Final project for CMSC320.
